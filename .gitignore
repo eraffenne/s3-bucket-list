@@ -1,0 +1,11 @@
+*.pyc
+.idea/
+*.iml
+*/.idea
+*/.classpath
+*/.project
+*/.settings
+*/.cache
+*GitIgnored*
+*.asc
+*.gpg
